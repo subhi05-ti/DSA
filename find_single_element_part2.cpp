@@ -1,0 +1,1 @@
+// find the distinct element from the array where all the other elements occurs thrice
